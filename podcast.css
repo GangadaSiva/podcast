@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.podcasts {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png');
+    background-size: cover;
+    height: 30vh;
+    font-family: "Roboto";
+}
+
+.top-head {
+    color: white;
+    padding: 20px;
+}
+
+.pod-bottom-sec {
+    margin: 20px;
+}
+
+.pod-bottom-card {
+    text-align: center;
+    margin: 20px;
+}
+
+.pod-bottom-image {}
+
+.pod-bottom-card-head {
+    color: #151765;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.pod-bottom-card-para {
+    color: #5a7184;
+}
+
+.detail-top {
+    background-color: #151765;
+    background-size: cover;
+    height: 30vh;
+    color: white;
+
+}
+
+.image-topcard {
+    height: 130px;
+
+}
+
+.detail-card-top {
+    padding: 50px;
+    padding-left: 20px;
+}
+
+.detail-top-des {
+
+    margin-left: 10px;
+
+}
+
+.detail-top-des-para {
+    font-size: 13px;
+}
+
+.detail-top-des-head {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.detail-card-bottom {
+    padding: 15px;
+    padding-left: 20px;
+}
+
+.detail-bottom-des {
+    margin-left: 10px;
+}
+
+.detail-bottom-des-head {
+    font-size: 17px;
+    font-weight: bold;
+    color: #151765;
+}
+
+.detail-bottom-des-para1 {
+    font-size: 13px;
+}
+
+.detail-bottom-des-para {
+    font-size: 13px;
+    margin-top: 30px;
+    font-weight: bold;
+    color: #151765;
+}
+
+.button-align {
+    text-align: right;
+    margin-right: 30px;
+}
+
+.button {
+    color: white;
+    background-color: #151765;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
